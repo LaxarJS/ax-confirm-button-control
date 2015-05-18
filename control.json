@@ -1,0 +1,8 @@
+{
+   "name": "ax-confirm-button-control",
+   "description": "A bootstrap-style button with additional confirm step for destructive operations, packaged for LaxarJS.",
+
+   "integration": {
+      "technology": "angular"
+   }
+}
