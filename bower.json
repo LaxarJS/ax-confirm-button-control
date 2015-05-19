@@ -1,7 +1,7 @@
 {
-   "name": "laxarjs.ax-confirm-button-control",
+   "name": "laxar-confirm-button-control",
    "version": "1.0.0-pre",
-   "description": "A bootstrap-style button with additional confirm step for destructive operations, packaged for LaxarJS.",
+   "description": "A bootstrap-style button with an additional confirm step for destructive operations, as an AngularJS directive for LaxarJS widgets.",
    "authors": [],
    "license": "MIT",
    "main": "ax-confirm-button-control.js",
