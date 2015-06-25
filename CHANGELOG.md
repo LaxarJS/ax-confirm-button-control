@@ -2,6 +2,9 @@
 
 ## Last Changes
 
+
+## v1.0.1
+
 - [#2](https://github.com/LaxarJS/ax-confirm-button-control/issues/2): remove event handler on destroy
 
 
